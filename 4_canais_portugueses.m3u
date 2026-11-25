@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Portugal",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Portugal",RTP 2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Portugal",SIC
+https://sic.live.impresa.pt/sic1080p.m3u8
+#EXTINF:-1 group-title="Portugal",TVI
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
